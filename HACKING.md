@@ -1,5 +1,5 @@
 Hacking
-=======
+======= 
 The following is a quickstart guide for developing `cheat`.
 
 ## 1. Install system dependencies
@@ -23,8 +23,11 @@ After your environment has been configured, your development workflow will
 resemble the following:
 
 1. Make changes to the `cheat` source code.
-2. Run `make test` to run unit-tests.
-3. Fix compiler errors and failing tests as necessary.
+2. Run `make te
+st` to run unit-tests.
+
+3. Fix compiler errors and failing te
+sts as necessary.
 4. Run `make`. A `cheat` executable will be written to the `dist` directory.
 5. Use the new executable by running `dist/cheat <command>`.
 6. Run `make install` to install `cheat` to your `PATH`.
@@ -54,4 +57,7 @@ If you would like to destroy this container, you may run:
 make distclean
 ```
 
-[go]: https://go.dev/
+[
+    
+go]: https://go.dev/
+drrtyr557445465
